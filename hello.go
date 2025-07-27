@@ -5,5 +5,5 @@ package MyLib
 import "fmt"
 
 func SayHello(name string) {
-	fmt.Printf("Hellasdasdasdsadasdasdasdasdasdo, %s!\n", name)
+	fmt.Printf("YOUR THE BEST!!!!, %s!\n", name)
 }
